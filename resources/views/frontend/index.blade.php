@@ -113,7 +113,7 @@
         <div class="slide">
             <div class="card">
                 <a href="detail1.html" class="mostView_hover">
-                    <img src="image/home12.jpg" class="card-img-top mostView_image">
+                    <img src="{{asset('frontend/images/home12.jpg')}}" class="card-img-top mostView_image">
                 </a>
                 <div class="mostView_text card-body">
                     <span class="d-block btn btn-danger rounded mt-2 px-3 py-1 text-white">
@@ -125,7 +125,7 @@
         <div class="slide">
             <div class="card">
                 <a href="detail1.html" class="mostView_hover">
-                    <img src="image/home13.jpg" class="card-img-top mostView_image">
+                    <img src="{{asset('frontend/images/home13.jpg')}}" class="card-img-top mostView_image">
                 </a>
                 <div class="mostView_text card-body">
                     <span class="d-block btn btn-danger rounded mt-2 px-3 py-1 text-white">
@@ -137,7 +137,7 @@
         <div class="slide">
             <div class="card">
                 <a href="detail1.html" class="mostView_hover">
-                    <img src="image/home14.jpg" class="card-img-top mostView_image">
+                    <img src="{{asset('frontend/images/home14.jpg')}}" class="card-img-top mostView_image">
                 </a>
                 <div class="mostView_text card-body">
                     <span class="d-block btn btn-danger rounded mt-2 px-3 py-1 text-white">
@@ -149,7 +149,7 @@
         <div class="slide">
             <div class="card">
                 <a href="detail1.html" class="mostView_hover">
-                    <img src="image/home15.jpg" class="card-img-top mostView_image">
+                    <img src="{{image/home15.jpg}}" class="card-img-top mostView_image">
                 </a>
                 <div class="mostView_text card-body">
                     <span class="d-block btn btn-danger rounded mt-2 px-3 py-1 text-white text-decoration-line-through">
